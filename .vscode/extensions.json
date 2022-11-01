@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "mhutchie.git-graph",
+        "editorconfig.editorconfig",
+        "davidanson.vscode-markdownlint",
+        "TabNine.tabnine-vscode"
+    ]
+}
